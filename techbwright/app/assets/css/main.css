@@ -1,0 +1,15 @@
+@import "tailwindcss";
+main{
+    @apply bg-black;
+    @apply min-h-screen;
+    @apply items-center;
+    @apply justify-center;
+    @apply flex;
+    @apply flex-col gap-6;
+}
+body{
+    @apply bg-black;
+    }
+h1{
+    @apply text-white;
+}    
